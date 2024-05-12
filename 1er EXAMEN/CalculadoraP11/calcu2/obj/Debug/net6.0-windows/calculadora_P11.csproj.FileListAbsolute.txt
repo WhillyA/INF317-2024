@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\calcu2\calcu2\bin\Debug\net6.0-windows\calculadora_P11.exe
+C:\Users\Usuario\Desktop\calcu2\calcu2\bin\Debug\net6.0-windows\calculadora_P11.deps.json
+C:\Users\Usuario\Desktop\calcu2\calcu2\bin\Debug\net6.0-windows\calculadora_P11.runtimeconfig.json
+C:\Users\Usuario\Desktop\calcu2\calcu2\bin\Debug\net6.0-windows\calculadora_P11.dll
+C:\Users\Usuario\Desktop\calcu2\calcu2\bin\Debug\net6.0-windows\calculadora_P11.pdb
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\calcu2.Form1.resources
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\calculadora_P11.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\calculadora_P11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\calculadora_P11.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\calculadora_P11.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\calculadora_P11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\calculadora_P11.dll
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\refint\calculadora_P11.dll
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\calculadora_P11.pdb
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\calculadora_P11.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\calcu2\calcu2\obj\Debug\net6.0-windows\ref\calculadora_P11.dll

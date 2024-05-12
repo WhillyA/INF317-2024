@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\calcu2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3950B5-63AD-4627-845A-E3E686981E6A}|calcu2\\calculadora_P11.csproj|c:\\users\\usuario\\desktop\\calcu2\\calcu2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3950B5-63AD-4627-845A-E3E686981E6A}|calcu2\\calculadora_P11.csproj|solutionrelative:calcu2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3950B5-63AD-4627-845A-E3E686981E6A}|calcu2\\calculadora_P11.csproj|C:\\Users\\Usuario\\Desktop\\calcu2\\calcu2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C3950B5-63AD-4627-845A-E3E686981E6A}|calcu2\\calculadora_P11.csproj|solutionrelative:calcu2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\calcu2\\calcu2\\Form1.cs",
+              "RelativeDocumentMoniker": "calcu2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\calcu2\\calcu2\\Form1.cs",
+              "RelativeToolTip": "calcu2\\Form1.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAcwOwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T21:42:13.223Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\calcu2\\calcu2\\Form1.cs",
+              "RelativeDocumentMoniker": "calcu2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\calcu2\\calcu2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "calcu2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:27:36.269Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
