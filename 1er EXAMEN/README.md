@@ -20,10 +20,15 @@
 **9.** Genere la serie 2, 4, 6, 8, 10, 12, 14, 16, 18… en M vectores(procesadores) para N términos con MPI 
 
 **10.** Genere la serie 2, 4, 6, 8, 10, 12, 14, 16, 18… en M vectores(procesadores) para N términos con Mutiprocessing.
+
 **11.**	En Visual Studio con al menos 2 capas, realice la calculadora mediante expresiones postfijas, almacenando todo el proceso en una sola pila (puede utilizar pilas auxiliares para el proceso).
+
 **12.**	Realice el cálculo de Fibonacci con MPI  mediante un procesador MASTER que solicite cada termino a los procesadores SLAVE
+
 **13.**	Realice el cálculo de Fibonacci con Multiprocessing de al menos 1000 términos divididos por procesador de manera dinámica.
+
 **14.**	Según la taxonomía de Flynn clasifique OPENMP, MPI y Multiprocessing . Justifique su respuesta.
+
 **15.** Despliegue “hola mundo” en la librería de su gusto.
 
 
