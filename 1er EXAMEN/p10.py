@@ -8,24 +8,26 @@ def generar_serie(inicio, fin, paso, cola):
 
 def main():
     M = 4  # Número de procesadores
-    N = 9  # Número de términos en la serie
+    N = 50 # Número de términos en la serie
     paso = 2  # Paso entre términos de la serie
 
     procesos = []
     resultados = Queue()
 
     # Calcular el rango de términos para cada proceso
-    rango = N // M
+    rango = (N // M) * paso
     residuo = N % M
 
     inicio = 2
     for i in range(M):
         fin = inicio + rango
         if i < residuo:
-            fin += 1
+            fin += paso
         proceso = Process(target=generar_serie, args=(inicio, fin, paso, resultados))
         procesos.append(proceso)
         inicio = fin
+    print("Rango de términos para cada proceso:", rango)
+    print("Residuo:", residuo)
 
     # Iniciar los procesos
     for proceso in procesos:

@@ -16,10 +16,10 @@ int main(int argc, char *argv[]) {
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
     MPI_Comm_size(MPI_COMM_WORLD, &size);
 
-    int total_elementos = n * size; // Número total de elementos en la serie
+    int total_elementos = n * size * 2; // Número total de elementos en la serie
 
     int inicio = rank * n * 2 + 2; // Inicio de la serie para el procesador actual
-    int fin = inicio + n * 2 - 1; // Fin de la serie para el procesador actual
+    int fin = inicio + (n * 2 - 2); // Fin de la serie para el procesador actual
 
     if (fin > total_elementos) {
         fin = total_elementos;

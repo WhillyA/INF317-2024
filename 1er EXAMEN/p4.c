@@ -13,12 +13,12 @@ void multiplicacion_matriz_vector(int matriz[N][N], int vector[N], int resultado
         for (int j = 0; j < N; j++) {
             temp += matriz[i][j] * vector[j];
         }
-        // Almacenar el resultado en paralelo usando una reducción
-        #pragma omp atomic
-        resultado[i] += temp;
+        // Almacenar el resultado en el vector de resultados
+        resultado[i] = temp;
         printf("Procesador activo en hilo %d - Cálculo de fila %d\n", procesadorActivo, i);
     }
 }
+
 
 int main() {
     int matriz[N][N] = {

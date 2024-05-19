@@ -24,8 +24,8 @@ int main(int argc, char *argv[]) {
         {13, 14, 15, 16}
     };
     int vector[N] = {1, 2, 3, 4};
-    int resultado[N];
-    int resultado_total[N * N];
+    int resultado[N] = {0}; // Inicializar el resultado a cero
+    int resultado_parcial[N] = {0};
 
     MPI_Init(&argc, &argv);
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
@@ -37,20 +37,18 @@ int main(int argc, char *argv[]) {
     int fin = inicio + tam_bloque;
 
     // Multiplicación de la matriz por el vector
-    multiplicacion_matriz_vector(matriz, vector, resultado, inicio, fin, rank);
+    multiplicacion_matriz_vector(matriz, vector, resultado_parcial, inicio, fin, rank);
 
     // Combinar los resultados parciales en el proceso raíz (rank 0)
-    MPI_Gather(resultado, N, MPI_INT, resultado_total, N, MPI_INT, 0, MPI_COMM_WORLD);
+    MPI_Gather(&resultado_parcial[inicio], tam_bloque, MPI_INT, resultado, tam_bloque, MPI_INT, 0, MPI_COMM_WORLD);
 
     // Imprimir el resultado en el proceso raíz
     if (rank == 0) {
         printf("\nResultado completo:\n");
         for (int i = 0; i < N; i++) {
-            for (int j = 0; j < N; j++) {
-                printf("%d ", resultado_total[i * N + j]);
-            }
-            printf("\n");
+            printf("%d ", resultado[i]);
         }
+        printf("\n");
     }
     MPI_Finalize();
 
