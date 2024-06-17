@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\preg1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39DD354A-93F3-43E3-BE73-C287A742ABA5}|ProyectoEstudiante\\ProyectoEstudiante.csproj|c:\\users\\usuario\\source\\repos\\preg1\\proyectoestudiante\\principal\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39DD354A-93F3-43E3-BE73-C287A742ABA5}|ProyectoEstudiante\\ProyectoEstudiante.csproj|solutionrelative:proyectoestudiante\\principal\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F094E995-A25F-4C7C-94CA-C8D1885EA5D1}|Entidades\\Entidades.csproj|C:\\Users\\Usuario\\source\\repos\\preg1\\entidades\\estudiantes\\clsestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F094E995-A25F-4C7C-94CA-C8D1885EA5D1}|Entidades\\Entidades.csproj|solutionrelative:entidades\\estudiantes\\clsestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F781CF04-307D-47FB-98F0-D1B204D6A9CF}|LogicaNegocio\\LogicaNegocio.csproj|C:\\Users\\Usuario\\source\\repos\\preg1\\logicanegocio\\estudiantes\\clsestudianteln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F781CF04-307D-47FB-98F0-D1B204D6A9CF}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\estudiantes\\clsestudianteln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6F73E9-1F57-4126-9C6F-7656ACE75AA6}|AccesiDatos\\AccesiDatos.csproj|C:\\Users\\Usuario\\source\\repos\\preg1\\accesidatos\\database\\clsdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6F73E9-1F57-4126-9C6F-7656ACE75AA6}|AccesiDatos\\AccesiDatos.csproj|solutionrelative:accesidatos\\database\\clsdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DD354A-93F3-43E3-BE73-C287A742ABA5}|ProyectoEstudiante\\ProyectoEstudiante.csproj|C:\\Users\\Usuario\\source\\repos\\preg1\\proyectoestudiante\\principal\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DD354A-93F3-43E3-BE73-C287A742ABA5}|ProyectoEstudiante\\ProyectoEstudiante.csproj|solutionrelative:proyectoestudiante\\principal\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\preg1\\AccesiDatos\\DataBase\\clsDataBase.cs",
+              "RelativeDocumentMoniker": "AccesiDatos\\DataBase\\clsDataBase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\preg1\\AccesiDatos\\DataBase\\clsDataBase.cs",
+              "RelativeToolTip": "AccesiDatos\\DataBase\\clsDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T21:33:32.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\preg1\\Entidades\\Estudiantes\\ClsEstudiante.cs",
+              "RelativeDocumentMoniker": "Entidades\\Estudiantes\\ClsEstudiante.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\preg1\\Entidades\\Estudiantes\\ClsEstudiante.cs",
+              "RelativeToolTip": "Entidades\\Estudiantes\\ClsEstudiante.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:22:45.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsEstudianteLn.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\preg1\\LogicaNegocio\\Estudiantes\\ClsEstudianteLn.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Estudiantes\\ClsEstudianteLn.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\preg1\\LogicaNegocio\\Estudiantes\\ClsEstudianteLn.cs",
+              "RelativeToolTip": "LogicaNegocio\\Estudiantes\\ClsEstudianteLn.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAADcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:18:47.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\preg1\\ProyectoEstudiante\\Principal\\FrmEstudiante.cs",
+              "RelativeDocumentMoniker": "ProyectoEstudiante\\Principal\\FrmEstudiante.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\preg1\\ProyectoEstudiante\\Principal\\FrmEstudiante.cs",
+              "RelativeToolTip": "ProyectoEstudiante\\Principal\\FrmEstudiante.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwD0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:38:24.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\preg1\\ProyectoEstudiante\\Principal\\FrmEstudiante.cs",
+              "RelativeDocumentMoniker": "ProyectoEstudiante\\Principal\\FrmEstudiante.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\preg1\\ProyectoEstudiante\\Principal\\FrmEstudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoEstudiante\\Principal\\FrmEstudiante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:30:17.084Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

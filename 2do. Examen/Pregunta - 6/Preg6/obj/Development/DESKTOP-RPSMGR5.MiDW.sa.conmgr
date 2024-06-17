@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-RPSMGR5.MiDW.sa"
+  DTS:DTSID="{E9ABA64E-50AB-4766-B8CF-04385CB733AB}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-RPSMGR5;User ID=sa;Initial Catalog=MiDW;Persist Security Info=True;Encrypt=False;Application Name=SSIS-Preg6-{E9ABA64E-50AB-4766-B8CF-04385CB733AB}DESKTOP-RPSMGR5.MiDW.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0o2eaNseKEeKPqqkY+s3bAAAAAACAAAAAAAQZgAAAAEAACAAAABHdSTFPGXAO7a5X07cmlhLH6YCaWPVjCiHu8noBILe1AAAAAAOgAAAAAIAACAAAAD1yLVSAAvKue7b8diikuKTDDBzne+ci/HZl4szmcXXpnAAAACRCFxujNdsfm4mSusMo5OnKH6Ra0TKdBIRirAb5ydZ44+54fLLW8KNZ7YaqEq9rB43Ixb7+rVBxWdvpFlQ528K8zEtBndupvuNP4cV4K+d2EL1hjOBrz4KBBNZm92O2KP3sBT1Dif1zJJ4Sg8WcQ9LQAAAAF8BcA0gfMlgxjAXIQmVeSQBVow7q4+XwBXemkP3hO6/ZdYl5uLjz41WVq9ho6VXy4RUIzfTHjo1qsY3mRwjF9Q=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

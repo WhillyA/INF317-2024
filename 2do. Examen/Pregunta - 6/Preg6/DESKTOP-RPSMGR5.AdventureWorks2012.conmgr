@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-RPSMGR5.AdventureWorks2012"
+  DTS:DTSID="{29A6194D-67C8-4E36-A2B3-DD24A10390F1}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-RPSMGR5;Initial Catalog=AdventureWorks2012;Integrated Security=True;Encrypt=False;Application Name=SSIS-Preg6-{29A6194D-67C8-4E36-A2B3-DD24A10390F1}DESKTOP-RPSMGR5.AdventureWorks2012;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\bin\Debug\AccesiDatos.dll
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\bin\Debug\AccesiDatos.pdb
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\bin\Debug\AccesiDatos.dll.config
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\obj\Debug\LogicaNe.53575492.Up2Date
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Usuario\source\repos\preg1\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\preg1\AccesiDatos\bin\Debug\AccesiDatos.dll.config
+C:\Users\Usuario\source\repos\preg1\AccesiDatos\bin\Debug\AccesiDatos.dll
+C:\Users\Usuario\source\repos\preg1\AccesiDatos\bin\Debug\AccesiDatos.pdb
+C:\Users\Usuario\source\repos\preg1\AccesiDatos\obj\Debug\AccesiDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\preg1\AccesiDatos\obj\Debug\AccesiDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\preg1\AccesiDatos\obj\Debug\AccesiDatos.dll
+C:\Users\Usuario\source\repos\preg1\AccesiDatos\obj\Debug\AccesiDatos.pdb
