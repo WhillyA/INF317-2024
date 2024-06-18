@@ -1,44 +1,23 @@
-import multiprocessing
+import multiprocessing as np
+from multiprocessing import Pool
+import math
 
-def fibonacci(n, memo={}):
-    if n <= 1:
-        return n
-    if n not in memo:
-        memo[n] = fibonacci(n-1, memo) + fibonacci(n-2, memo)
-    return memo[n]
+def fibo(inicial, final):
+  v = []
+  for i in range(inicial, final):
+    p1 = ((1/math.sqrt(5))* ((1 + math.sqrt(5))/2)  i)
+    p2 = ((1/math.sqrt(5))* ((1 - math.sqrt(5))/2)  i)
+    pt = round(p1 - p2)
+    v.append(pt)
+  return v
 
-def calculate_fibonacci_range(start, end, results):
-    results.extend([fibonacci(i) for i in range(start, end)])
+if name=="main":
+  limite = 500
+  parameters = [((i*limite),(limite*(i+1))) for i in range(np.cpu_count())]
+  print(parameters)
 
-def main():
-    num_terms = 50
-    num_processors = multiprocessing.cpu_count()
 
-    # Calcular la cantidad de términos por procesador
-    terms_per_processor = num_terms // num_processors
-    remainder = num_terms % num_processors
-
-    # Crear los procesos
-    processes = []
-    results = multiprocessing.Manager().list()  # Lista compartida para almacenar los resultados
-    for i in range(num_processors):
-        start = i * terms_per_processor
-        end = start + terms_per_processor
-        if i == num_processors - 1:
-            end += remainder  # Añadir el resto al último procesador
-        process = multiprocessing.Process(target=calculate_fibonacci_range, args=(start, end, results))
-        processes.append(process)
-        
-    # Iniciar los procesos
-    for process in processes:
-        process.start()
-        
-    # Esperar a que todos los procesos terminen
-    for process in processes:
-        process.join()
-        
-    # Imprimir los resultados
-    print("Fibonacci sequence:", results)
-
-if __name__ == "__main__":
-    main()
+  pool = Pool()
+  resultado = pool.starmap(fibo, parameters)
+  for i in resultado:
+    print(i)
